@@ -1,0 +1,20 @@
+{
+  "name": "xe_qa_test",
+  "version": "1.0.0",
+  "description": "QA Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "Test",
+    "QA",
+    "Test"
+  ],
+  "author": "T. Olomu",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0"
+  }
+}
