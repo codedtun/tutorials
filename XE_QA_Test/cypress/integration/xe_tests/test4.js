@@ -14,4 +14,8 @@ describe("Currency Converter Test", function () {
     cy.wait(6000);
     cy.get("element-IND2S9").invoke("show");
   });
+
+  it("random money test", () => {
+    cy.get("currencyconverter").click();
+  });
 });
