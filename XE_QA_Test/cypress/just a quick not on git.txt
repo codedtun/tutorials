@@ -1,0 +1,2 @@
+just a quick not on git
+this is a text file thats not part of the code
